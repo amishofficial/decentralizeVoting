@@ -1,0 +1,25 @@
+start with the implementation paper
+
+ijitee journal
+
+nodes only mentioned by server
+
+
+solidity
+web3
+why SHA256 and how it wroks
+
+
+
+directly go for registeration + voting
+data base would check from just the voter ID and create the keys if the voter id is valid and not been used
+voter votes at the same time
+
+
+They dont have to remember the key and no work for the voter.
+Less amount of procedure and easy also for voter
+
+
+-   Ethereum is well suited for highly distributed blockchain networks where transparency of data for all members is important, for example, 
+    a customer loyalty blockchain network that allows any retailer in the network to independently verify a user's activity across all 
+    members to redeem benefits. Alternatively, Ethereum can also be used for joining a public Ethereum blockchain network
